@@ -9,7 +9,7 @@ A collection of edge detection papers (*a.k.a.* contour detection or boundary de
 - [Deep-learning based approaches](#deep-learning-based-approaches)
   - [General edge detection](#general-edge-detection)
   - [Object contour detection](#object-contour-detection)
-  - [Semantic edge detection](#semantic-edge-detection)
+  - [Semantic edge detection (Category-Aware)](#semantic-edge-detection-category-aware)
   - [Occlusion boundary detection](#occlusion-boundary-detection)
   - [Edge detection from frames](#edge-detection-from-frames)
 - [Traditional approaches](#traditional-approaches)
@@ -39,7 +39,7 @@ A collection of edge detection papers (*a.k.a.* contour detection or boundary de
 |  | [Weakly Supervised Object Boundaries](http://openaccess.thecvf.com/content_cvpr_2016/papers/Khoreva_Weakly_Supervised_Object_CVPR_2016_paper.pdf) | CVPR 2016 |  |
 
 
-### Semantic edge detection
+### Semantic edge detection (Category-Aware)
 
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |

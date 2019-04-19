@@ -9,18 +9,18 @@ A collection of edge detection papers (*a.k.a.* contour detection or boundary de
 
 **Outline**
 
-- [Deep-learning based approaches](#deep-learning-based-approaches)
-  - [General edge detection](#general-edge-detection)
-  - [Object contour detection](#object-contour-detection)
-  - [Semantic edge detection (Category-Aware)](#semantic-edge-detection-category-aware)
-  - [Occlusion boundary detection](#occlusion-boundary-detection)
-  - [Edge detection from multi-frames](#edge-detection-from-multi-frames)
-- [Traditional approaches](#traditional-approaches)
+- [Deep-learning based approaches](#1-deep-learning-based-approaches)
+  - [General edge detection](#11-general-edge-detection)
+  - [Object contour detection](#12-object-contour-detection)
+  - [Semantic edge detection (Category-Aware)](#13-semantic-edge-detection-category-aware)
+  - [Occlusion boundary detection](#14-occlusion-boundary-detection)
+  - [Edge detection from multi-frames](#15-edge-detection-from-multi-frames)
+- [Traditional approaches](#2-traditional-approaches)
 
 
-## Deep-learning based approaches
+## 1. Deep-learning based approaches
 
-### General edge detection
+### 1.1 General edge detection
 
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
@@ -36,7 +36,7 @@ A collection of edge detection papers (*a.k.a.* contour detection or boundary de
 | DeepEdge | [DeepEdge: A Multi-Scale Bifurcated Deep Network for Top-Down Contour Detection](http://openaccess.thecvf.com/content_cvpr_2015/papers/Bertasius_DeepEdge_A_Multi-Scale_2015_CVPR_paper.pdf) | CVPR 2015 |  |
 | DeepContour | [DeepContour: A Deep Convolutional Feature Learned by Positive-sharing Loss for Contour Detection](http://openaccess.thecvf.com/content_cvpr_2015/papers/Shen_DeepContour_A_Deep_2015_CVPR_paper.pdf) | CVPR 2015 |  |
 
-### Object contour detection
+### 1.2 Object contour detection
 
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
@@ -44,24 +44,25 @@ A collection of edge detection papers (*a.k.a.* contour detection or boundary de
 |  | [Weakly Supervised Object Boundaries](http://openaccess.thecvf.com/content_cvpr_2016/papers/Khoreva_Weakly_Supervised_Object_CVPR_2016_paper.pdf) | CVPR 2016 |  |
 
 
-### Semantic edge detection (Category-Aware)
+### 1.3 Semantic edge detection (Category-Aware)
 
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
+| STEAL | [Devil is in the Edges: Learning Semantic Boundaries from Noisy Annotations](https://arxiv.org/pdf/1904.07934.pdf) | CVPR 2019 | [[project]](https://nv-tlabs.github.io/STEAL/) |
 | DFF | [Dynamic Feature Fusion for Semantic Edge Detection](https://arxiv.org/pdf/1902.09104.pdf) | 1902.09104 |  |
 | SEAL | [Simultaneous Edge Alignment and Learning](http://openaccess.thecvf.com/content_ECCV_2018/papers/Zhiding_Yu_SEAL_A_Framework_ECCV_2018_paper.pdf) | ECCV 2018 | [[code]](https://github.com/Chrisding/seal) |
 | CASENet | [CASENet: Deep Category-Aware Semantic Edge Detection](http://openaccess.thecvf.com/content_cvpr_2017/papers/Yu_CASENet_Deep_Category-Aware_CVPR_2017_paper.pdf) | CVPR 2017 | [[code]](http://www.merl.com/research/license#CASENet) |
 | `dataset` | [Semantic Contours from Inverse Detectors](https://www.robots.ox.ac.uk/~vgg/rg/papers/BharathICCV2011.pdf) | ICCV 2011 | [[code]](https://github.com/bharath272/semantic_contours) |
 
 
-### Occlusion boundary detection
+### 1.4 Occlusion boundary detection
 
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
 |  | [Occlusion Boundary Detection via Deep Exploration of Context](http://openaccess.thecvf.com/content_cvpr_2016/papers/Fu_Occlusion_Boundary_Detection_CVPR_2016_paper.pdf) | CVPR 2016 |  |
 
 
-### Edge detection from multi-frames
+### 1.5 Edge detection from multi-frames
 
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
@@ -73,7 +74,7 @@ A collection of edge detection papers (*a.k.a.* contour detection or boundary de
 ---
 
 
-## Traditional approaches
+## 2. Traditional approaches
 
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |

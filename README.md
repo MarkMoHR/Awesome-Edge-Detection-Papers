@@ -26,7 +26,7 @@ A collection of edge detection papers (*a.k.a.* contour detection or boundary de
 
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
-| DexiNed | [Dense Extreme Inception Network: Towards a Robust CNN Model for Edge Detection](https://arxiv.org/pdf/1909.01955.pdf) | WACV 2019 |  |
+| DexiNed | [Dense Extreme Inception Network: Towards a Robust CNN Model for Edge Detection](https://arxiv.org/pdf/1909.01955.pdf) | WACV 2020 |[[Code]](https://github.com/xavysp/DexiNed)  |
 | BDCN | [Bi-Directional Cascade Network for Perceptual Edge Detection](https://arxiv.org/pdf/1902.10903.pdf) | CVPR 2019 | [[code]](https://github.com/pkuCactus/BDCN) |
 | LPCB | [Learning to Predict Crisp Boundaries](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ruoxi_Deng_Learning_to_Predict_ECCV_2018_paper.pdf) | ECCV 2018 |  |
 | AMH-Net | [Learning Deep Structured Multi-Scale Features using Attention-Gated CRFs for Contour Prediction](https://papers.nips.cc/paper/6985-learning-deep-structured-multi-scale-features-using-attention-gated-crfs-for-contour-prediction.pdf) | NIPS 2017 | [[code]](https://github.com/danxuhk/AttentionGatedMulti-ScaleFeatureLearning) |

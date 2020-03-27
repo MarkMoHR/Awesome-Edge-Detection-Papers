@@ -18,6 +18,7 @@ A collection of edge detection papers (*a.k.a.* contour detection or boundary de
   - [Occlusion boundary detection](#14-occlusion-boundary-detection)
   - [Edge detection from multi-frames](#15-edge-detection-from-multi-frames)
 - [Traditional approaches](#2-traditional-approaches)
+- [[Misc] Useful Links](#3-useful-links)
 
 
 ## 1. Deep-learning based approaches
@@ -94,3 +95,10 @@ A collection of edge detection papers (*a.k.a.* contour detection or boundary de
 | FDoG | [Coherent Line Drawing](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.108.559&rep=rep1&type=pdf) | NPAR 2007 | [[code]](https://github.com/SSARCandy/Coherent-Line-Drawing) [[project]](https://ssarcandy.tw/Coherent-Line-Drawing/) |
 | Canny | [A Computational Approach to Edge Detection](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.420.3300&rep=rep1&type=pdf) | TPAMI 1986 | [[code]](https://rosettacode.org/wiki/Canny_edge_detector) [[code-py]](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_canny/py_canny.html) |
 
+
+---
+
+
+## 3. Useful Links
+
+ - Code to plot edge PR curves: [yun-liu/plot-edge-pr-curves](https://github.com/yun-liu/plot-edge-pr-curves)

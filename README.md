@@ -53,6 +53,7 @@ A collection of edge detection papers (*a.k.a.* contour detection or boundary de
 
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
+| RPCNet | [Joint Semantic Segmentation and Boundary Detection using Iterative Pyramid Contexts](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhen_Joint_Semantic_Segmentation_and_Boundary_Detection_Using_Iterative_Pyramid_Contexts_CVPR_2020_paper.pdf) | CVPR 2020 | [[code]](https://github.com/mingminzhen/RPCNet) |
 | DFF | [Dynamic Feature Fusion for Semantic Edge Detection](https://arxiv.org/pdf/1902.09104.pdf) | IJCAI 2019 | [[code]](https://github.com/Lavender105/DFF) |
 | STEAL | [Devil is in the Edges: Learning Semantic Boundaries from Noisy Annotations](https://arxiv.org/pdf/1904.07934.pdf) | CVPR 2019 | [[code]](https://github.com/nv-tlabs/STEAL) [[project]](https://nv-tlabs.github.io/STEAL/) |
 | SEAL | [Simultaneous Edge Alignment and Learning](http://openaccess.thecvf.com/content_ECCV_2018/papers/Zhiding_Yu_SEAL_A_Framework_ECCV_2018_paper.pdf) | ECCV 2018 | [[code]](https://github.com/Chrisding/seal) |

@@ -2,9 +2,9 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A collection of edge detection papers (*a.k.a.* contour detection or boundary detection).
+A collection of edge detection papers and corresponding source code/demo program (*a.k.a.* contour detection or boundary detection).
 
-> Feel free to create a PR or an issue.
+> Feel free to create a PR or an issue. (Pull Request is preferred)
 
 ![examples](https://github.com/MarkMoHR/Awesome-Edge-Detection-Papers/blob/master/edge-detection.png)
 
@@ -92,7 +92,7 @@ A collection of edge detection papers (*a.k.a.* contour detection or boundary de
 | Sketch Tokens | [Sketch tokens: A learned mid-level representation for contour and object detection](http://openaccess.thecvf.com/content_cvpr_2013/papers/Lim_Sketch_Tokens_A_2013_CVPR_paper.pdf) | CVPR 2013 |  |
 | SCG | [Discriminatively Trained Sparse Code Gradients for Contour Detection](http://papers.nips.cc/paper/4787-discriminatively-trained-sparse-code-gradients-for-contour-detection.pdf) | NIPS 2012 |  |
 | gPb-owt-ucm | [Contour Detection and Hierarchical Image Segmentation](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.374.3367&rep=rep1&type=pdf) | TPAMI 2011 | [[code]](http://www.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/BSR/BSR_source.tgz) [[project]](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/resources.html) |
-| XDoG | [XDoG: advanced image stylization with eXtended Difference-of-Gaussians](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.648.990&rep=rep1&type=pdf) | NPAR 2011 | [[code]](https://github.com/heitorrapela/xdog) |
+| XDoG | [XDoG: advanced image stylization with eXtended Difference-of-Gaussians](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.648.990&rep=rep1&type=pdf) | NPAR 2011 | [[code(python)]](https://github.com/heitorrapela/xdog) <br/> [[online demo]](https://xdog.alexpeattie.com/) <br/>Others: [code(C++)](https://github.com/Sunwinds/xdog-demo) [code(matlab)](https://github.com/CemalUnal/XDoG-Filter) [code(Web APP)](https://github.com/alexpeattie/xdog-sketch) |
 | FDoG | [Coherent Line Drawing](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.108.559&rep=rep1&type=pdf) | NPAR 2007 | [[code]](https://github.com/SSARCandy/Coherent-Line-Drawing) [[project]](https://ssarcandy.tw/Coherent-Line-Drawing/) |
 | Canny | [A Computational Approach to Edge Detection](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.420.3300&rep=rep1&type=pdf) | TPAMI 1986 | [[code]](https://rosettacode.org/wiki/Canny_edge_detector) [[code-py]](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_canny/py_canny.html) |
 

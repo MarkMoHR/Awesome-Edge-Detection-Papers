@@ -39,6 +39,7 @@ A collection of edge detection papers and corresponding source code/demo program
 
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
+| pidinet | [Pixel Difference Networks for Efficient Edge Detection](https://arxiv.org/abs/2108.07009) | ICCV 2021 | [[Code]](https://github.com/zhuoinoulu/pidinet) |
 | DSCD | [Deep Structural Contour Detection](https://dl.acm.org/doi/abs/10.1145/3394171.3413750) | ACM MM 2020 |  |
 | DexiNed | [Dense Extreme Inception Network: Towards a Robust CNN Model for Edge Detection](https://arxiv.org/pdf/1909.01955.pdf) | WACV 2020 | [[Code]](https://github.com/xavysp/DexiNed)  |
 | BDCN | [Bi-Directional Cascade Network for Perceptual Edge Detection](https://arxiv.org/pdf/1902.10903.pdf) | CVPR 2019 | [[code]](https://github.com/pkuCactus/BDCN) |
@@ -66,6 +67,7 @@ A collection of edge detection papers and corresponding source code/demo program
 
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
+| RINDNet | [RINDNet: Edge Detection for Discontinuity in Reflectance, Illumination, Normal and Depth](https://arxiv.org/abs/2108.00616) | ICCV 2021 | [[code]](https://github.com/MengyangPu/RINDNet) |
 | RPCNet | [Joint Semantic Segmentation and Boundary Detection using Iterative Pyramid Contexts](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhen_Joint_Semantic_Segmentation_and_Boundary_Detection_Using_Iterative_Pyramid_Contexts_CVPR_2020_paper.pdf) | CVPR 2020 | [[code]](https://github.com/mingminzhen/RPCNet) |
 | DFF | [Dynamic Feature Fusion for Semantic Edge Detection](https://arxiv.org/pdf/1902.09104.pdf) | IJCAI 2019 | [[code]](https://github.com/Lavender105/DFF) |
 | STEAL | [Devil is in the Edges: Learning Semantic Boundaries from Noisy Annotations](https://arxiv.org/pdf/1904.07934.pdf) | CVPR 2019 | [[code]](https://github.com/nv-tlabs/STEAL) [[project]](https://nv-tlabs.github.io/STEAL/) |
@@ -78,6 +80,7 @@ A collection of edge detection papers and corresponding source code/demo program
 
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
+| DOOBNet | [DOOBNet: Deep Object Occlusion Boundary Detection from an Image](https://arxiv.org/abs/1806.03772) | ACCV 2018 | [[code]](https://github.com/GuoxiaWang/DOOBNet) |
 |  | [Occlusion Boundary Detection via Deep Exploration of Context](http://openaccess.thecvf.com/content_cvpr_2016/papers/Fu_Occlusion_Boundary_Detection_CVPR_2016_paper.pdf) | CVPR 2016 |  |
 
 

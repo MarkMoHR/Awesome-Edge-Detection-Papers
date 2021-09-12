@@ -81,6 +81,7 @@ A collection of edge detection papers and corresponding source code/demo program
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
 | DOOBNet | [DOOBNet: Deep Object Occlusion Boundary Detection from an Image](https://arxiv.org/abs/1806.03772) | ACCV 2018 | [[code]](https://github.com/GuoxiaWang/DOOBNet) |
+| DOC & `dataset` | [DOC: Deep OCclusion Estimation From a Single Image](https://arxiv.org/abs/1511.06457) | ECCV 2016 | [[code]](https://github.com/pengwangucla/DOC) |
 |  | [Occlusion Boundary Detection via Deep Exploration of Context](http://openaccess.thecvf.com/content_cvpr_2016/papers/Fu_Occlusion_Boundary_Detection_CVPR_2016_paper.pdf) | CVPR 2016 |  |
 
 

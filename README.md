@@ -39,6 +39,7 @@ A collection of edge detection papers and corresponding source code/demo program
 
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
+| EDTER | [EDTER: Edge Detection with Transformer](https://openaccess.thecvf.com/content/CVPR2022/papers/Pu_EDTER_Edge_Detection_With_Transformer_CVPR_2022_paper.pdf) | CVPR 2022 | [[Code]](https://github.com/MengyangPu/EDTER) |
 | pidinet | [Pixel Difference Networks for Efficient Edge Detection](https://arxiv.org/abs/2108.07009) | ICCV 2021 | [[Code]](https://github.com/zhuoinoulu/pidinet) |
 | DSCD | [Deep Structural Contour Detection](https://dl.acm.org/doi/abs/10.1145/3394171.3413750) | ACM MM 2020 |  |
 | DexiNed | [Dense Extreme Inception Network: Towards a Robust CNN Model for Edge Detection](https://arxiv.org/pdf/1909.01955.pdf) | WACV 2020 | [[Code]](https://github.com/xavysp/DexiNed)  |

@@ -39,6 +39,7 @@ A collection of edge detection papers and corresponding source code/demo program
 
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
+| DiffusionEdge | [DiffusionEdge: Diffusion Probabilistic Model for Crisp Edge Detection](https://arxiv.org/abs/2401.02032) | AAAI 2024 | [[Code]](https://github.com/GuHuangAI/DiffusionEdge) |
 | UAED | [The Treasure Beneath Multiple Annotations: An Uncertainty-aware Edge Detector](https://arxiv.org/abs/2303.11828) | CVPR 2023 | [[Code]](https://github.com/ZhouCX117/UAED) |
 | EDTER | [EDTER: Edge Detection with Transformer](https://openaccess.thecvf.com/content/CVPR2022/papers/Pu_EDTER_Edge_Detection_With_Transformer_CVPR_2022_paper.pdf) | CVPR 2022 | [[Code]](https://github.com/MengyangPu/EDTER) |
 | pidinet | [Pixel Difference Networks for Efficient Edge Detection](https://arxiv.org/abs/2108.07009) | ICCV 2021 | [[Code]](https://github.com/zhuoinoulu/pidinet) |

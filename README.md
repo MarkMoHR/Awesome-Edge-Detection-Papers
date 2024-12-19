@@ -39,6 +39,7 @@ A collection of edge detection papers and corresponding source code/demo program
 
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
+| SAUGE | [SAUGE: Taming SAM for Uncertainty-Aligned Multi-Granularity Edge Detection](https://arxiv.org/abs/2412.12892) | AAAI 2025 | [[code]](https://github.com/Star-xing1/SAUGE) |
 | RankED | [RankED: Addressing Imbalance and Uncertainty in Edge Detection Using Ranking-based Losses](https://openaccess.thecvf.com/content/CVPR2024/papers/Cetinkaya_RankED_Addressing_Imbalance_and_Uncertainty_in_Edge_Detection_Using_Ranking-based_CVPR_2024_paper.pdf) | CVPR 2024 | [[webpage]](https://ranked-cvpr24.github.io/) |
 | MuGE | [MuGE: Multiple Granularity Edge Detection](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhou_MuGE_Multiple_Granularity_Edge_Detection_CVPR_2024_paper.pdf) | CVPR 2024 |  |
 | DiffusionEdge | [DiffusionEdge: Diffusion Probabilistic Model for Crisp Edge Detection](https://arxiv.org/abs/2401.02032) | AAAI 2024 | [[Code]](https://github.com/GuHuangAI/DiffusionEdge) |
